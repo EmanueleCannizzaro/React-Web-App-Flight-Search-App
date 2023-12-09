@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import moment from 'moment';
 import FlightDetails from './Flight-details';
-import FlightData from '../../Data/flights-json'
+import FlightData from '../data/flights-json'
 import './flights.css';
 
 class FlightsResult extends Component {

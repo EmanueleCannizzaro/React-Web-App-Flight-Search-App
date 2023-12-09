@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-import logo from '../../assets/images/flight.gif';
+import logo from '../assets/images/flight.gif';
 import './header.css';
 
 class Header extends Component {

@@ -57,11 +57,11 @@
 }
 
 .ai {
-  background-image: url('../../assets/images/ai.png');
+  background-image: url('../assets/images/ai.png');
 }
 
 .indigo {
-  background-image: url('../../assets/images/indigo.png');
+  background-image: url('../assets/images/indigo.png');
 }
 
 .booking--button {
